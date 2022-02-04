@@ -1,0 +1,76 @@
+body {
+    color: black;
+    text-align: center;
+    font-family: 'Architects Daughter', cursive;
+}
+
+.title {
+    font-size: 50px;
+    background-color: pink;
+    font-weight: 800;
+    padding: 0 20px;
+}
+
+.button {
+    display: flex;
+    justify-content: center;
+}
+
+p {
+    font-size: 30px;
+    font-weight: 800;
+}
+
+
+.firstImage {
+    height: 300px;
+}
+
+.secondImage {
+    height: 300px;
+}
+
+
+
+.start-button {
+    height: 40px;
+}
+
+.end {
+    display: none;
+}
+
+.message-5 {
+    display: none;
+}
+/* Check out `display:none`. What do you think it does?*/
+.treasure {
+    display: none;
+    font-family: 'Coiny', cursive;
+}
+.latecar {
+display: none;
+    height: 300px;
+}
+
+.early {
+    display: none;
+   
+}
+
+.notraff {
+    display: none;
+}
+
+.coffee{
+    display: none;
+    height: 300px;
+}
+
+.treasure-img {
+    height: 300px;
+}
+
+h1 {
+    font-size: 50px;
+}
